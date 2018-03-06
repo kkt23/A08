@@ -130,17 +130,6 @@ color: brown;
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOElWQ0RbdZ1VlfERyF4HM5kEQzo2kPSYaGXLzmauOIAQdh9X" style=width:75px;height:75px/></a>
 
-<h3>November<h3>
-
-<a href="http://www.andrewrosssorkin.com/" target="blank"> Andrew Ross Sorkin<br>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PCQrLJk_qRjBx7-0Nv76bishYJE-XCAXSFL1132FZqEtsHvH" style=width:75px;height:75px/></a>
-
-<h3>January<h3>
-
-<a href="http://www.amychua.com/" target="blank">Amy Chua<br>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIj48ZigtooaXytaTrs1vDpiDKuScbKmTlErkH8z7vgopevrwR" style=width:75px;height:75px/></a>
 
 <footer>2015, San Joaquin Valley Town, Fresno, CA 93755</footer>
 
